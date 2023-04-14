@@ -1,0 +1,1 @@
+/Users/kushagra/Desktop/KushagraJindal/Integraate-Projects/RustTutorial/hello_ownership/target/debug/hello_ownership: /Users/kushagra/Desktop/KushagraJindal/Integraate-Projects/RustTutorial/hello_ownership/src/main.rs
