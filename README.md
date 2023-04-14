@@ -11,3 +11,8 @@ rustc --version
 ```
 rustup update
 ```
+
+## Cargo Project
+```
+cargo new project_name
+```
