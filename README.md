@@ -1,5 +1,5 @@
 # RustTutorial
-Internal repository form learning Rust
+Repository for learning Rust
 
 ## Install 
 ```
